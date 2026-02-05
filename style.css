@@ -1,0 +1,36 @@
+body {
+margin: 20px auto;
+width: 800px;
+padding-left: 50px;
+padding-right: 50px;
+border-radius: 20px;
+text-align: center;
+}
+
+input {
+    background-color: aliceblue;
+    border-radius: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 200px;
+    border: 3px solid black;
+}
+
+#spany {
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: rgb(206, 173, 236);
+}
+
+button {
+    border-radius: 20px;
+}
+
+img {
+width: 425px;
+height: 250px;
+border-radius: 5px;
+margin: auto;
+}
+
